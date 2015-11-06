@@ -39,7 +39,7 @@ a few examples of the desired output. There are also some directories that are
 shared amoung all the katas (`assets`, `lib`). In the `bin` directory, there is
 a `run` command that setups your Ruby environment and runs the kata.
 
-# Dependencies
+## Dependencies
 
 * Git Large File Storage (LFS)
 * SDL2

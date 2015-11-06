@@ -10,7 +10,7 @@ The ship should have a property for how quickly it rotates.
 
 ## Examples
 
-[](http://www.gfycat.com/ComfortablePalatableFlyinglemur)
+[](http://zippy.gfycat.com/ComfortablePalatableFlyinglemur.gif)
 
 ## Hints
 

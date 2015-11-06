@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "gosu"
+require "pry"
+
+$LOAD_PATH.unshift File.expand_path("../lib", File.dirname(__FILE__))
+$LOAD_PATH.unshift File.expand_path(File.dirname(ARGV.first))
+
+load(ARGV.first)

@@ -64,7 +64,7 @@ times (when a button is pressed, mouse is clicked, periodically on ticks).
 You should respond to these events by changing the state of your game. When the
 state of your game changes, you may (or may not) need to redraw the window.
 
-See the `hello_world.rb` program for an extremely basic Gosu program: when the
+See the [`hello_world.rb`](https://github.com/cjbottaro/endless-kata/blob/master/hello_world.rb) program for an extremely basic Gosu program: when the
 spacebar is pressed, "Hello, world!" is drawn in the window.
 
 ```

@@ -71,6 +71,12 @@ spacebar is pressed, "Hello, world!" is drawn in the window.
 bin/run hello_world.rb
 ```
 
+Gosu Homepage:
+https://libgosu.org
+
+Gosu Ruby API documentation:
+https://www.libgosu.org/rdoc/Gosu.html
+
 ## Sharing your solutions
 
 Think you have a really clever solution to one of the problems?

@@ -42,7 +42,7 @@ a `run` command that setups your Ruby environment and runs the kata.
 # Dependencies
 
 * Git Large File Storage (LFS)
-* sdl2
+* SDL2
 
 ## Quickstart
 

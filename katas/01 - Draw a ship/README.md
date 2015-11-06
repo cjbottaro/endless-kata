@@ -10,7 +10,7 @@ The ship should have a property for how quickly it rotates.
 
 ## Examples
 
-[](http://zippy.gfycat.com/ComfortablePalatableFlyinglemur.gif)
+[![](http://zippy.gfycat.com/ComfortablePalatableFlyinglemur.gif)](http://gfycat.com/ComfortablePalatableFlyinglemur)
 
 ## Hints
 

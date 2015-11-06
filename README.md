@@ -72,9 +72,11 @@ bin/run hello_world.rb
 ```
 
 Gosu Homepage:
+
 https://libgosu.org
 
 Gosu Ruby API documentation:
+
 https://www.libgosu.org/rdoc/Gosu.html
 
 ## Sharing your solutions

@@ -39,9 +39,15 @@ a few examples of the desired output. There are also some directories that are
 shared amoung all the katas (`assets`, `lib`). In the `bin` directory, there is
 a `run` command that setups your Ruby environment and runs the kata.
 
+# Dependencies
+
+* Git Large File Storage (LFS)
+* sdl2
+
 ## Quickstart
 
 ```
+brew install git-lfs sdl2 # OS X specific, not sure of Linux/Windows equivalent
 git clone https://github.com/cjbottaro/endless-kata.git
 cd endless-kata
 bundle install

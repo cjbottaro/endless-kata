@@ -10,6 +10,7 @@ Assumptions:
 
 1. The ship accelerates at 10px/s^2
 2. The ship's max speed is 50px/s
+3. The ship's speed and direction remain constant if not accelerating
 
 Remember in space, if you rotate without firing the engines, your trajectory
 will not change.

@@ -17,7 +17,7 @@ Rotating does not affect trajectory
 
 Trajectory is affected by acceleration
 
-[![](http://zippy.gfycat.com/ThoughtfulMagnificentCowrie.gif)](http://gfycat.com/ThoughtfulMagnificentCowrie)
+[![](http://fat.gfycat.com/ThoughtfulMagnificentCowrie.gif)](http://gfycat.com/ThoughtfulMagnificentCowrie)
 
 ## Hints
 

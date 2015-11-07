@@ -11,4 +11,8 @@ will not change.
 
 ## Examples
 
+Rotating does not affect trajectory
+
+[![](http://zippy.gfycat.com/SoupyAfraidKingfisher.gif)](http://gfycat.com/SoupyAfraidKingfisher)
+
 ## Hints

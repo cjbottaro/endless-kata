@@ -14,6 +14,12 @@ Lastly, why do katas in the context of a 2D game? Because it's fun! Practing/wri
 unimpressive... :P The katas you do here will be fun to show your friends (even
 your non programming ones).
 
+## Table of Contents (katas)
+
+1. [Draw a ship](https://github.com/cjbottaro/endless-kata/tree/master/katas/01)
+2. [Add some engines](https://github.com/cjbottaro/endless-kata/tree/master/katas/02)
+3. [Movement](https://github.com/cjbottaro/endless-kata/tree/master/katas/03)
+
 ## What language is it in?
 
 Ruby. Also, the hints / tutorials assume you're using the Gosu framework.
